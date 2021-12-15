@@ -11,7 +11,10 @@ namespace accessModifiers
     {
         static void Main(string[] args) 
         {
-            
+            var person = new Person();
+
+            person.SetBirthdate(new DateTime(1988,01,31));
+            System.Console.WriteLine(person.GetBirthdate());
         }
     }
 }
