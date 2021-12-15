@@ -1,0 +1,15 @@
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.csproj.AssemblyReference.cache
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.GeneratedMSBuildEditorConfig.editorconfig
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.AssemblyInfoInputs.cache
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.AssemblyInfo.cs
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.csproj.CoreCompileInputs.cache
+/home/robin/CSharpLinux/cwm/fields/bin/Debug/net6.0/fields
+/home/robin/CSharpLinux/cwm/fields/bin/Debug/net6.0/fields.deps.json
+/home/robin/CSharpLinux/cwm/fields/bin/Debug/net6.0/fields.runtimeconfig.json
+/home/robin/CSharpLinux/cwm/fields/bin/Debug/net6.0/fields.dll
+/home/robin/CSharpLinux/cwm/fields/bin/Debug/net6.0/ref/fields.dll
+/home/robin/CSharpLinux/cwm/fields/bin/Debug/net6.0/fields.pdb
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.dll
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/ref/fields.dll
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.pdb
+/home/robin/CSharpLinux/cwm/fields/obj/Debug/net6.0/fields.genruntimeconfig.cache
