@@ -14,6 +14,8 @@ namespace fields
             customer.Orders.Add(new Order());
             customer.Orders.Add(new Order());
 
+            customer.Promote();
+
             System.Console.WriteLine(customer.Orders.Count);
         }
     }
