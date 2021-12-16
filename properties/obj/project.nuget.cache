@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxV1DgKKoPETEsCI4JBTKMjy1SdYplY/udYro60l1q0/aOapj7H1+BKhfxgpLz88G2AL3BATpWQUT4Ny0TW5uw==",
+  "success": true,
+  "projectFilePath": "/home/robin/cwm-csharp/properties/properties.csproj",
+  "expectedPackageFiles": [
+    "/home/robin/.nuget/packages/runtime.linux-x64.microsoft.netcore.ildasm/6.0.0/runtime.linux-x64.microsoft.netcore.ildasm.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

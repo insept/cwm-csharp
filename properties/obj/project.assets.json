@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "runtime.linux-x64.Microsoft.NETCore.ILDAsm/6.0.0": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/ildasm": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "runtime.linux-x64.Microsoft.NETCore.ILDAsm/6.0.0": {
+      "sha512": "OjCtsSGDysDQizfaahvoQ21swLf8RMZd85axjPMLxlj9qID2IrFEWat6TrLKWiJTH1z9/tQEq8BwwU/Pg77sNQ==",
+      "type": "package",
+      "path": "runtime.linux-x64.microsoft.netcore.ildasm/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "runtime.linux-x64.microsoft.netcore.ildasm.6.0.0.nupkg.sha512",
+        "runtime.linux-x64.microsoft.netcore.ildasm.nuspec",
+        "runtimes/linux-x64/native/ildasm"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "runtime.linux-x64.Microsoft.NETCore.ILDAsm >= 6.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/robin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/robin/cwm-csharp/properties/properties.csproj",
+      "projectName": "properties",
+      "projectPath": "/home/robin/cwm-csharp/properties/properties.csproj",
+      "packagesPath": "/home/robin/.nuget/packages/",
+      "outputPath": "/home/robin/cwm-csharp/properties/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/robin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "runtime.linux-x64.Microsoft.NETCore.ILDAsm": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
