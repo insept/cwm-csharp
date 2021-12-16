@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/robin/CSharpLinux/cwm/accessModifiers/accessModifiers.csproj": {}
+    "/home/robin/cwm-csharp/accessModifiers/accessModifiers.csproj": {}
   },
   "projects": {
-    "/home/robin/CSharpLinux/cwm/accessModifiers/accessModifiers.csproj": {
+    "/home/robin/cwm-csharp/accessModifiers/accessModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/robin/CSharpLinux/cwm/accessModifiers/accessModifiers.csproj",
+        "projectUniqueName": "/home/robin/cwm-csharp/accessModifiers/accessModifiers.csproj",
         "projectName": "accessModifiers",
-        "projectPath": "/home/robin/CSharpLinux/cwm/accessModifiers/accessModifiers.csproj",
+        "projectPath": "/home/robin/cwm-csharp/accessModifiers/accessModifiers.csproj",
         "packagesPath": "/home/robin/.nuget/packages/",
-        "outputPath": "/home/robin/CSharpLinux/cwm/accessModifiers/obj/",
+        "outputPath": "/home/robin/cwm-csharp/accessModifiers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/robin/.nuget/NuGet/NuGet.Config"
@@ -47,18 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.0, 6.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

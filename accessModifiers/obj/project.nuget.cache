@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3l8znmHaNcGVTSot2TqmyE1a+6U/itznk4KCWf5/p+Mb1kN9At3RVTet8Ye/dIHXXZRrn+xxQsjtRexlwxv+hg==",
+  "dgSpecHash": "m378BrmdLzkiVlI4bvMp9Th/r4hFUk1J4GsO/Q58cTAKviRVY9jE8B2rHdfmDoLYSVEZlxL+60AbDbW35kN5Rg==",
   "success": true,
-  "projectFilePath": "/home/robin/CSharpLinux/cwm/accessModifiers/accessModifiers.csproj",
-  "expectedPackageFiles": [
-    "/home/robin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/robin/cwm-csharp/accessModifiers/accessModifiers.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
