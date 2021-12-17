@@ -13,3 +13,5 @@
 /home/robin/cwm-csharp/properties/obj/Debug/net6.0/ref/properties.dll
 /home/robin/cwm-csharp/properties/obj/Debug/net6.0/properties.pdb
 /home/robin/cwm-csharp/properties/obj/Debug/net6.0/properties.genruntimeconfig.cache
+/home/robin/cwm-csharp/properties/bin/Debug/net6.0/runtimes/linux-x64/native/ildasm
+/home/robin/cwm-csharp/properties/obj/Debug/net6.0/properties.csproj.CopyComplete

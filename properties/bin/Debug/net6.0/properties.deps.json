@@ -7,8 +7,20 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "properties/1.0.0": {
+        "dependencies": {
+          "runtime.linux-x64.Microsoft.NETCore.ILDAsm": "6.0.0"
+        },
         "runtime": {
           "properties.dll": {}
+        }
+      },
+      "runtime.linux-x64.Microsoft.NETCore.ILDAsm/6.0.0": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/ildasm": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
         }
       }
     }
@@ -18,6 +30,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "runtime.linux-x64.Microsoft.NETCore.ILDAsm/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OjCtsSGDysDQizfaahvoQ21swLf8RMZd85axjPMLxlj9qID2IrFEWat6TrLKWiJTH1z9/tQEq8BwwU/Pg77sNQ==",
+      "path": "runtime.linux-x64.microsoft.netcore.ildasm/6.0.0",
+      "hashPath": "runtime.linux-x64.microsoft.netcore.ildasm.6.0.0.nupkg.sha512"
     }
   }
 }
