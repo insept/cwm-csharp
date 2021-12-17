@@ -8,10 +8,6 @@ using System.Threading.Tasks;
 
 namespace Properties
 {
-    public class Person 
-    {
-        public DateTime Birthdate { get; set; }
-    }
     public class Program
     {
         public static void Main(string[] args)
