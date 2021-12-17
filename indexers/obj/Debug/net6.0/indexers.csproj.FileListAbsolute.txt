@@ -1,0 +1,15 @@
+/home/robin/cwm-csharp/indexers/bin/Debug/net6.0/indexers
+/home/robin/cwm-csharp/indexers/bin/Debug/net6.0/indexers.deps.json
+/home/robin/cwm-csharp/indexers/bin/Debug/net6.0/indexers.runtimeconfig.json
+/home/robin/cwm-csharp/indexers/bin/Debug/net6.0/indexers.dll
+/home/robin/cwm-csharp/indexers/bin/Debug/net6.0/ref/indexers.dll
+/home/robin/cwm-csharp/indexers/bin/Debug/net6.0/indexers.pdb
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.csproj.AssemblyReference.cache
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.AssemblyInfoInputs.cache
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.AssemblyInfo.cs
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.csproj.CoreCompileInputs.cache
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.dll
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/ref/indexers.dll
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.pdb
+/home/robin/cwm-csharp/indexers/obj/Debug/net6.0/indexers.genruntimeconfig.cache
