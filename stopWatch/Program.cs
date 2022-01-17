@@ -27,7 +27,7 @@ namespace StopWatchExercise // Note: actual namespace depends on the project nam
                     {
                         stopWatch.StopTimer(DateTime.Now);
 
-                        System.Console.WriteLine("The duration was: " + stopWatch.Duration());
+                        System.Console.WriteLine("The duration was: " + stopWatch.Duration(params int[stopWatch.StartTime,stopWatch.StopTime]));
                     }
 
                 }

@@ -17,7 +17,7 @@ namespace StopWatchExercise // Note: actual namespace depends on the project nam
         }
         public DateTime StopTime {get; private set;}
 
-        public TimeSpan Duration()
+        public TimeSpan Duration(StartTime,StopTime)
         {
             var TimeDuration = StartTime - StopTime;
 
